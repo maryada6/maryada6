@@ -43,9 +43,7 @@
 <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>\
-<img src="https://devicon.dev/devicon.git/icons/github/flutter.svg" width="25px" height="25px"/>
-
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
 </p>
 
 
