@@ -11,20 +11,17 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
-
-<!-- spotify -->
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4ni6expuhfs7kg2y3up57glrd&cover_image=true"/>
-</p>
-
-
-
 <!-- thropy -->
 <a href="http://arunmurugan78.github.io/">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=ArunMurugan78&column=7&theme=onedark"/>
     </p>
 </a>
+    <!-- spotify -->
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4ni6expuhfs7kg2y3up57glrd&cover_image=true"/>
+</p>
+
 
 <!-- status codes -->
 <a align="center" href="http://arunmurugan78.github.io/">
