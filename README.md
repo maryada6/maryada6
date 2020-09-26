@@ -1,21 +1,15 @@
-<!-- top left -->
-<a href="http://arunmurugan78.github.io/">
-    <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif?1578512858" width="50" height="50"/> &nbsp &nbsp
-</a>
 
-#  Arun Murugan
+
+#  Arun Murugan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p>
 <a href="http://arunmurugan78.github.io/">
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DArunMurugan78&longCache=true">
 </a>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
 
 <!-- programming langs i work-->
 <p>
-
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="30px" height="30px"/>
 <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="30px" height="30px"/>
 <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="30px" height="30px"/>
@@ -27,7 +21,6 @@
 </p>
 
 
-## Get in touch
 
 <!-- websites and link -->
 <p>
@@ -40,7 +33,6 @@
 <a href="https://linkedin.com/in/arun-murugan-50885717a/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="30" width="30" />
 </a>
-
 <a href="https://github.com/ArunMurugan78" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="30" width="30" />
 </a>
