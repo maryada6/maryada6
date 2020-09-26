@@ -17,10 +17,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=ArunMurugan78&column=7&theme=onedark"/>
     </p>
 </a>
-    <!-- spotify -->
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4ni6expuhfs7kg2y3up57glrd&cover_image=true"/>
-</p>
 
 
 <!-- status codes -->
@@ -30,6 +26,10 @@
     </p>
 </a>
 
+
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4ni6expuhfs7kg2y3up57glrd&cover_image=true"/>
+</p>
 <!-- programming langs i work-->
 <p align="center">
 
