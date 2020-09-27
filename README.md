@@ -18,6 +18,18 @@
 <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="30px" height="30px"/>
 <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="30px" height="30px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/docker/docker-plain.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="30px" height="30px"/>
+    
+    
+    
+    
+    
+    
 </p>
 
 
@@ -25,16 +37,19 @@
 <!-- websites and link -->
 <p>
 <a href="http://arunmurugan78.github.io/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="30" width="30" />
+<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  height="30" width="30" />
 </a>
 <a href="https://medium.com/@arunmurugan200" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arshiamidos" height="30" width="30" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" />
 </a>
 <a href="https://linkedin.com/in/arun-murugan-50885717a/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="30" width="30" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="30" />
 </a>
 <a href="https://github.com/ArunMurugan78" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="30" width="30" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"  height="30" width="30" />
+</a>
+<a href="https://dev.to/arunmurugan78" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"  height="40" width="auto" />
 </a>
 </p>
 
@@ -50,11 +65,11 @@
     </p>
 </a>
 <!-- thropy -->
-<a href="http://arunmurugan78.github.io/">
+<!-- <a href="http://arunmurugan78.github.io/">
     <p>
         <img src="https://github-profile-trophy.vercel.app/?username=ArunMurugan78&column=7&theme=onedark"/>
     </p>
-</a>
+</a> -->
 
 ## Music 🎸 
 <p>
