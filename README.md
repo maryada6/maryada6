@@ -8,32 +8,6 @@
 </a>
 <p>
 
-<!-- programming langs i work-->
-<p>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/docker/docker-plain.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="30px" height="30px"/>
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="30px" height="30px"/>
-    
-    
-    
-    
-    
-    
-</p>
-
-
-
 <!-- websites and link -->
 <p>
 <a href="http://arunmurugan78.github.io/" target="blank">
