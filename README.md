@@ -33,12 +33,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=maryada6&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryada6&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
+<!--
 <a href="http://maryada6.github.io/">
     <p>
         <img src="https://github-profile-trophy.vercel.app/?username=maryada6&column=7&theme=onedark"/>
     </p>
 </a>
-
+-->
 <!--
 ## Music 🎸 
 <p>
