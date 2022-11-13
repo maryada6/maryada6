@@ -3,14 +3,14 @@
 #  Maryada Lodha <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p>
-<a href="http://maryada6.github.io/">
+<a href="/#">
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmaryada6&longCache=true">
 </a>
 <p>
 
 <!-- websites and link -->
 <p>
-<a href="http://maryada6.github.io/" target="blank">
+<a href="https://github.com/maryada6" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  height="30" width="30" />
 </a>
 <a href="https://linkedin.com/in/maryada-jain-a86285190/" target="blank">
@@ -18,7 +18,7 @@
 </a>
 <a href="https://github.com/maryada6" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"  height="30" width="30" />
-<a href="https://www.maryadalodha.me/" target="blank">
+<a href="https://www.maryadalodha.netlify.app/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg"  height="30" width="30" />
 </a>
 </a>
