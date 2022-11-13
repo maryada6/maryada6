@@ -18,7 +18,7 @@
 </a>
 <a href="https://github.com/maryada6" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"  height="30" width="30" />
-<a href="https://www.maryadalodha.netlify.app/" target="blank">
+<a href="https://maryadalodha.netlify.app/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg"  height="30" width="30" />
 </a>
 </a>
