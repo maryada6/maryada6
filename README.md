@@ -19,16 +19,6 @@ Here's the updated version with your GitHub stats included:
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-<a href="https://github.com/maryada6">
-<img src="https://github-readme-stats.vercel.app/api?username=maryada6&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryada6&layout=compact&theme=tokyonight" alt="languages" height="165">
-</a>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 <p align="center">
 <a href="https://github.com/maryada6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" /></a> 
@@ -37,5 +27,3 @@ Here's the updated version with your GitHub stats included:
 </p>
 
 ---
-
-Would you like any design enhancements or further content revisions? 
