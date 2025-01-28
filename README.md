@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Maryada Lodha!  
 
 - 💻 A passionate Software Developer Engineer with hands-on experience in building scalable, reliable microservices and distributed systems.  
-- 🔧 My tech stack includes Golang, C++, Java, Python, and JavaScript frameworks like Node.js and React.js.  
+- 🔧 My tech stack includes Golang, C++, Java, Python, and JavaScript frameworks like Node.js.  
 - ☁️ Well-versed in cloud technologies like Google Cloud, Docker, Kubernetes, and CI/CD pipelines.  
 - 🔍 Experienced with databases and distributed systems using SQL, Redis, Kafka, and Elasticsearch.  
-- 💡 Strong problem-solving mindset with expertise in system design, performance optimization, and service reliability.  
-- 📊 Passionate about creating efficient monitoring tools to reduce system downtime and enhance operational efficiency.  
+- 💡 Strong problem-solving mindset with expertise in system design, performance optimization, and service reliability.   
 
 ## ⚡ Projects & Contributions
 - **HULK: Excel File Upload and Validation**  
