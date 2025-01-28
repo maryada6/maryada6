@@ -16,15 +16,9 @@
 ---
 
 ## 🌐 Connect with Me  
-<p align="center">
-<a href="https://www.linkedin.com/in/maryada-jain-a86285190/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maryada_linkedIn"/></a> 
-</p>
+![connect-with-me.png](./connect-with-me.png.png)
 
-<hr>
+- **LinkedIn:** [Maryada Lodha](https://linkedin.com/in/maryada-lodha-a86285190/)  
+- **Email:** [subhamlodha6@gmail.com](mailto:subhamlodha6@gmail.com)  
 
-<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
-
-
-[linkedin]: https://www.linkedin.com/in/maryada-jain-a86285190/
-[github]:https://github.com/maryada6
-[gmail]:mailto:subhamlodha6@gmail.com
+---
