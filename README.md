@@ -1,6 +1,3 @@
-
----
-
 # 👋 Hi, I'm Maryada Lodha!  
 
 - 💻 A passionate Software Developer Engineer with hands-on experience in building scalable, reliable microservices and distributed systems.  
@@ -20,9 +17,14 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-<a href="https://github.com/maryada6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" /></a> 
-<a href="https://linkedin.com/in/maryada-lodha-a86285190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-<a href="mailto:subhamlodha6@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/maryada-jain-a86285190/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maryada_linkedIn"/></a> 
 </p>
 
----
+<hr>
+
+<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
+
+
+[linkedin]: https://www.linkedin.com/in/maryada-jain-a86285190/
+[github]:https://github.com/maryada6
+[gmail]:mailto:subhamlodha6@gmail.com
