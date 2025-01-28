@@ -1,49 +1,41 @@
+Here's the updated version with your GitHub stats included:  
 
+---
 
-#  Maryada Lodha <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# 👋 Hi, I'm Maryada Lodha!  
 
-<p>
-<a href="/#">
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmaryada6&longCache=true">
-</a>
-<p>
+- 💻 A passionate Software Developer Engineer with hands-on experience in building scalable, reliable microservices and distributed systems.  
+- 🔧 My tech stack includes Golang, C++, Java, Python, and JavaScript frameworks like Node.js and React.js.  
+- ☁️ Well-versed in cloud technologies like Google Cloud, Docker, Kubernetes, and CI/CD pipelines.  
+- 🔍 Experienced with databases and distributed systems using SQL, Redis, Kafka, and Elasticsearch.  
+- 💡 Strong problem-solving mindset with expertise in system design, performance optimization, and service reliability.  
+- 📊 Passionate about creating efficient monitoring tools to reduce system downtime and enhance operational efficiency.  
 
-<!-- websites and link -->
-<p>
-<a href="https://github.com/maryada6" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  height="30" width="30" />
-</a>
-<a href="https://linkedin.com/in/maryada-jain-a86285190/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="30" />
-</a>
-<a href="https://github.com/maryada6" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"  height="30" width="30" />
-<a href="https://maryadalodha.netlify.app/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/about-dot-me.svg"  height="30" width="30" />
-</a>
+## ⚡ Projects & Contributions
+- **HULK: Excel File Upload and Validation**  
+  Built a secure file upload system using GCS and YAML for schema validation, reducing file processing errors by 40% and ensuring seamless compliance checks.  
+- **Event Bus: Microservices Event-Driven Setup**  
+  Designed a framework for asynchronous microservices communication, improving communication speed by 20% and enhancing scalability through topic-based routing.  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+<a href="https://github.com/maryada6">
+<img src="https://github-readme-stats.vercel.app/api?username=maryada6&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryada6&layout=compact&theme=tokyonight" alt="languages" height="165">
 </a>
 </p>
 
+---
 
+## 🌐 Connect with Me  
+<p align="center">
+<a href="https://github.com/maryada6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" /></a> 
+<a href="https://linkedin.com/in/maryada-lodha-a86285190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+<a href="mailto:subhamlodha6@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30" /></a>
+</p>
 
+---
 
-
-## Github Stats 📈
-<!-- status codes -->
-<a href="http://maryada6.github.io/">
-    <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=maryada6&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryada6&layout=compact&theme=tokyonight" alt="languages" height="165">
-    </p>
-</a>
-<!--
-<a href="http://maryada6.github.io/">
-    <p>
-        <img src="https://github-profile-trophy.vercel.app/?username=maryada6&column=7&theme=onedark"/>
-    </p>
-</a>
--->
-<!--
-## Music 🎸 
-<p>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4ni6expuhfs7kg2y3up57glrd&cover_image=true"/>
-</p> -->
+Would you like any design enhancements or further content revisions? 
